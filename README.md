@@ -19,5 +19,5 @@
 
 ## Social
 
-- X
+- X(ztx、Dali)
 - Discord
