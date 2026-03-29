@@ -6,7 +6,7 @@
 
 > 下載 .zip，在最右邊的側邊欄打開，然後點開 file tree，接著點旁邊的三個點，Download as zip
 
-<img src="../images/img2.8-1.png" width="50%">
+<img src="../images/img2.8-1.png" width="100%">
 
 # Prompt 指令詞
 
