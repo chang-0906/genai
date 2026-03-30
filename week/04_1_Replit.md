@@ -3,7 +3,7 @@
 # Replit
 
 </div>
-
+> [!WARNING]
 > 下載 .zip，在最右邊的側邊欄打開，然後點開 file tree，接著點旁邊的三個點，Download as zip
 
 <img src="../images/img2.8-1.png" width="100%">
