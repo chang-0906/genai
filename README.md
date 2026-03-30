@@ -16,6 +16,7 @@
 - Dify
 - Langfuse
 - Zeabur(Need Card)
+- Lmarena
 
 ## Social
 
